@@ -9,4 +9,3 @@
 - 🔬 I'm currently exploring the field of Data Science and Machine Learning
 - 🚀 I’m looking for job opportunities in the fields of DS, ML, and SWE
 - 📫 How to reach me: m.christodoulou1@lse.ac.uk 
--->
