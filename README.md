@@ -5,8 +5,6 @@
 - 🇬🇷 Born and raised in Athens, Greece
 - 🇬🇧 Currently based in London, UK
 - 🎓 Undergraduate student at LSE
-- 🔬 Want to become a SWE or Data Engineer
-- 📫 Reach out: m.christodoulou1@lse.ac.uk 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdc7000/)
 
