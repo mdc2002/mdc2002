@@ -5,6 +5,7 @@
 - 🇬🇷 Born and raised in Athens, Greece
 - 🇬🇧 Currently based in London, UK
 - 🎓 Undergraduate student at LSE
+- 👨‍💻 Interested in Software Engineering and Data Science
 
 
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50     
