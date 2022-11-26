@@ -1,6 +1,5 @@
 ### Hey 👋, I'm Mike Christodoulou 
 
-[![](https://vistr.dev/badge?repo=elfocrash.elfocrash&corners=square)](https://github.com/Elfocrash/vistr.dev)
 [![](https://img.shields.io/badge/-@mdc7000-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mdc7000)
 [![](https://img.shields.io/badge/-@mdc2002-%23181717?style=flat-square&logo=github)](https://github.com/mdc2002)
 [![](https://img.shields.io/badge/-Michail%20Christodoulou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdc7000/)](https://www.linkedin.com/in/mdc7000/)
